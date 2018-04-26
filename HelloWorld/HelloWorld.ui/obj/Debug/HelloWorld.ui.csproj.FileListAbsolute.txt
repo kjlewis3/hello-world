@@ -1,0 +1,7 @@
+c:\users\kelli\source\repos\HelloWorld\HelloWorld.ui\bin\Debug\HelloWorld.ui.exe.config
+c:\users\kelli\source\repos\HelloWorld\HelloWorld.ui\bin\Debug\HelloWorld.ui.exe
+c:\users\kelli\source\repos\HelloWorld\HelloWorld.ui\bin\Debug\HelloWorld.ui.pdb
+c:\users\kelli\source\repos\HelloWorld\HelloWorld.ui\obj\Debug\HelloWorld.ui.csprojResolveAssemblyReference.cache
+c:\users\kelli\source\repos\HelloWorld\HelloWorld.ui\obj\Debug\HelloWorld.ui.csproj.CoreCompileInputs.cache
+c:\users\kelli\source\repos\HelloWorld\HelloWorld.ui\obj\Debug\HelloWorld.ui.exe
+c:\users\kelli\source\repos\HelloWorld\HelloWorld.ui\obj\Debug\HelloWorld.ui.pdb
